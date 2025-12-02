@@ -1,6 +1,3 @@
-Here is a clean, professional, GitHub-ready **README.md** for your **SQL-Projects** main folder.
-You can **copy–paste** this directly into your repo’s `README.md`.
-
 ---
 
 # 📊 **SQL Projects – Portfolio Repository**
