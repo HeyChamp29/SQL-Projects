@@ -92,7 +92,6 @@ Perfect for:
 ## 🛠 **Technologies Used**
 
 * **MySQL Workbench**
-* **PostgreSQL**
 * **SQL Workbench/J**
 * **Excel / CSV datasets**
 * **Power BI / Tableau (optional visualizations)**
